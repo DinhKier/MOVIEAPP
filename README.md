@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MovieApp
 
 MovieApp is a React.js application built with Vite and styled using Tailwind CSS. This project serves as a template for building a movie-related application, showcasing various components and pages.
@@ -58,3 +59,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+=======
+# MOVIEAPP
+...
+>>>>>>> b60418e1c359bf109cddbcc91d9fc079bd06b5b7
